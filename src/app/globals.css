@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 200 98% 39%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 200 18% 94%;
+    --secondary-foreground: 200 24% 9%;
+    --muted: 200 18% 94%;
+    --muted-foreground: 200 8% 46%;
+    --accent: 200 18% 94%;
+    --accent-foreground: 200 24% 9%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 200 18% 88%;
+    --input: 200 18% 88%;
+    --ring: 200 98% 39%;
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 200 24% 4%;
+    --foreground: 200 5% 90%;
+    --card: 200 24% 4%;
+    --card-foreground: 200 5% 90%;
+    --popover: 200 24% 4%;
+    --popover-foreground: 200 5% 90%;
+    --primary: 200 90% 60%;
+    --primary-foreground: 200 20% 10%;
+    --secondary: 200 12% 18%;
+    --secondary-foreground: 200 5% 90%;
+    --muted: 200 12% 18%;
+    --muted-foreground: 200 5% 65%;
+    --accent: 200 12% 18%;
+    --accent-foreground: 200 5% 90%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 200 12% 18%;
+    --input: 200 12% 18%;
+    --ring: 200 90% 60%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-family: "Cairo", sans-serif;
+  }
+}

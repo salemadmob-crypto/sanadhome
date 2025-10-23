@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.sanadhome.com
+
+# Sitemaps
+Sitemap: https://www.sanadhome.com/sitemap.xml
