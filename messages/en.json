@@ -1,0 +1,564 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "privacyPolicy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "brandName": "SanadHome",
+    "language": "Language",
+    "theme": "Theme",
+    "services": "Services"
+  },
+  "home": {
+    "title": "SanadHome - Professional Home Nursing Care",
+    "subtitle": "Providing compassionate and professional nursing care in the comfort of your home",
+    "description": "We offer comprehensive home nursing services with qualified healthcare professionals dedicated to your wellbeing.",
+    "cta": "Get Started",
+    "learnMore": "Learn More",
+    "services": {
+      "title": "Services",
+      "professionalNursingCare": "Professional Nursing Care",
+      "subtitle": "Comprehensive home healthcare services delivered by experienced professionals"
+    },
+    "articles": {
+      "title": "Articles",
+      "subtitle": "Latest news and insights in healthcare",
+      "readMore": "Read More",
+      "backToBlog": "Back to Blog",
+      "tableOfContents": "Table of Contents",
+      "readTime": "5 min read",
+      "relatedArticles": "Related Articles",
+      "viewAllArticles": "View All Articles",
+      "noArticles": "No articles available at this time.",
+      "contactUs": "Contact Us",
+      "contactDescription": "If you have any questions or need more information about our services, feel free to reach out to us.",
+      "viewServices": "View Services",
+      "servicesDescription": "Discover how our customized home healthcare services can assist you or your loved ones."
+    },
+    "features": {
+      "title": "Why Choose SanadHome?",
+      "compassionate": {
+        "title": "Compassionate Care",
+        "description": "Our nurses provide caring, professional service with empathy and respect."
+      },
+      "licensed": {
+        "title": "Licensed Professionals",
+        "description": "All our healthcare providers are licensed and experienced professionals."
+      },
+      "available": {
+        "title": "24/7 Availability",
+        "description": "Round-the-clock care available when you need it most."
+      },
+      "family": {
+        "title": "Family-Centered",
+        "description": "We work closely with families to ensure the best possible care."
+      }
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "subtitle": "Simple steps to get the care you need",
+      "step1": {
+        "title": "Need Help?",
+        "description": "Contact us through phone, website, or visit our office to discuss your care needs."
+      },
+      "step2": {
+        "title": "Call Us",
+        "description": "Our team will assess your needs and match you with the right healthcare professional."
+      },
+      "step3": {
+        "title": "We Arrive",
+        "description": "Our licensed nurse arrives at your home at the scheduled time, ready to provide care."
+      },
+      "step4": {
+        "title": "Care Complete",
+        "description": "Receive professional, compassionate care in the comfort of your own home."
+      }
+    },
+    "ctaSection": {
+      "title": "Ready to Get Started?",
+      "description": "Contact us today to learn more about our home nursing services and how we can help you or your loved ones."
+    },
+    "featuredServices": {
+      "title": "Our Featured Services",
+      "subtitle": "Professional healthcare services delivered at your home"
+    },
+    "featuredArticles": {
+      "title": "Latest Health Insights",
+      "subtitle": "Expert advice and tips for better health and care"
+    },
+    "viewAllServices": "View All Services",
+    "viewAllArticles": "View All Articles",
+    "readMore": "Read More"
+  },
+  "about": {
+    "title": "About SanadHome",
+    "description": "We are dedicated to providing exceptional home nursing care services with experienced healthcare professionals.",
+    "mission": "Our Mission",
+    "missionText": "To deliver personalized, compassionate healthcare services in the comfort and safety of our patients' homes.",
+    "vision": "Our Vision",
+    "visionText": "To be the leading provider of home healthcare services, setting the standard for quality care and patient satisfaction.",
+    "cta": {
+      "title": "Need Professional Care?",
+      "description": "Contact SanadHome today to learn more about our professional home care services.",
+      "button": "Contact Us"
+    },
+    "values": {
+      "title": "Our Values",
+      "subtitle": "The principles that guide everything we do",
+      "compassion": {
+        "title": "Compassion",
+        "description": "We treat every patient with empathy, kindness, and understanding."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "We strive for the highest standards in all aspects of our care."
+      },
+      "integrity": {
+        "title": "Integrity",
+        "description": "We maintain honesty and transparency in all our interactions."
+      }
+    },
+    "goals": {
+      "title": "Our Goals",
+      "subtitle": "The objectives we strive to achieve in our journey to provide the best home healthcare",
+      "patientCare": {
+        "title": "Patient Care",
+        "description": "Providing personalized and exceptional care for every patient in the comfort of their home"
+      },
+      "qualityStandards": {
+        "title": "Quality Standards",
+        "description": "Maintaining the highest standards of quality and safety in all our services"
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "Developing innovative and advanced solutions in the field of home healthcare"
+      },
+      "community": {
+        "title": "Community Service",
+        "description": "Contributing to improving the health and wellbeing of the community through our specialized services"
+      }
+    },
+    "statistics": {
+      "title": "Our Achievements in Numbers",
+      "subtitle": "We take pride in the trust our clients place in us and the results we achieve together",
+      "patientsServed": {
+        "number": "1200+",
+        "label": "Patients Served"
+      },
+      "yearsExperience": {
+        "number": "10+",
+        "label": "Years of Experience"
+      },
+      "satisfactionRate": {
+        "number": "98%",
+        "label": "Client Satisfaction Rate"
+      },
+      "services": {
+        "number": "50+",
+        "label": "Specialized Services"
+      }
+    },
+    "testimonials": {
+      "title": "Client Testimonials",
+      "subtitle": "Discover our clients' experiences and how we've helped improve their quality of life",
+      "client1": {
+        "name": "Um Mohamed",
+        "role": "Patient's Mother",
+        "content": "The service was absolutely amazing! The nurses came to our home and treated my mother with such kindness. They checked on her daily and reassured us. My mother is doing much better now and feels happy at home."
+      },
+      "client2": {
+        "name": "Ahmed Fathy",
+        "role": "Diabetes & Hypertension Patient",
+        "content": "I was hesitant at first because I had never tried such services before, but when I experienced the service, I was amazed! The doctors and nurses are excellent, understanding, and respectful. Now my blood pressure and diabetes are well controlled, thank God."
+      },
+      "client3": {
+        "name": "Mona Hassan",
+        "role": "Patient's Wife",
+        "content": "After my husband's surgery, I was very worried about him, but SanadHome team made me feel completely at ease. They were with us 24/7, and they treated him with tenderness and patience. My husband recovered well, thank God, and returned to his normal life."
+      },
+      "client4": {
+        "name": "Uncle Hussein Abu El-Ezz",
+        "role": "Kidney Patient",
+        "content": "I've been a kidney patient for years and needed special care and constant monitoring. Thank God I found all of this with SanadHome. These people, may God bless them, are trustworthy and specialized, allowing me to live normally at home with my family."
+      },
+      "client5": {
+        "name": "Dr. Sarah Mahmoud",
+        "role": "Patient's Daughter",
+        "content": "Being a doctor myself, I was very particular about choosing who would care for my father after his stroke. SanadHome exceeded my expectations by far, and their professional level is very high. My father improved significantly, thank God, and can move again."
+      },
+      "client6": {
+        "name": "Abu Kareem Al-Najjar",
+        "role": "Heart Patient",
+        "content": "After the heart attack I had, I needed continuous care and hourly monitoring. Thank God, this team was with me every step of the way. My health is much better now, and I feel secure knowing I'm in their safe hands."
+      },
+      "client7": {
+        "name": "Hajja Um Abdullah",
+        "role": "Mother of Chronic Patient",
+        "content": "My son has a chronic condition and needs special care and constant monitoring. SanadHome team became like family to us. They treat him with love and patience as if he were their own child, which improved his mental and physical health. May God bless them."
+      },
+      "client8": {
+        "name": "Uncle Ragab Al-Halaq",
+        "role": "Stroke Patient",
+        "content": "After the stroke that left me bedridden, I couldn't do anything alone. I was sad and worried about my future. But the nurses at SanadHome helped me get my life back with dignity. They are patient and skilled, I swear to God."
+      },
+      "client9": {
+        "name": "Um Ahmed Al-Tayeba",
+        "role": "Elderly Patient",
+        "content": "I'm an elderly woman with many health problems. I was sitting at home alone with no one to check on me. When SanadHome team came, I felt like I found my grown children. They come daily to see me and check on me. May God keep them for their families."
+      },
+      "client10": {
+        "name": "Uncle Fathy Al-Bawab",
+        "role": "Diabetes Patient",
+        "content": "I'm a building doorman and have had diabetes for a long time. I didn't know how to deal with it. SanadHome team taught me everything and helped me understand my disease better. Now I know what to eat and what not to eat, and my health is much better."
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "subtitle": "Experienced healthcare professionals dedicated to your wellbeing",
+      "professional": "Healthcare Professional",
+      "role": "Registered Nurse",
+      "description": "Experienced healthcare professional with years of experience in home nursing care."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team",
+    "phoneLabel": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "hours": "Hours",
+    "hoursValue": "24/7 - Always Available",
+    "getInTouch": "Get in Touch",
+    "followUs": "Follow Us",
+    "sendMessage": "Send Message",
+    "name": "Full Name",
+    "namePlaceholder": "Enter your full name",
+    "emailPlaceholder": "Enter your email address",
+    "phone": "Phone Number",
+    "phonePlaceholder": "Enter your phone number",
+    "serviceNeeded": "Service Needed",
+    "selectService": "Select a service",
+    "message": "Message",
+    "messagePlaceholder": "Tell us about your needs...",
+    "sending": "Sending...",
+    "successMessage": "Thank you! Your message has been sent successfully. We'll get back to you soon.",
+    "errorMessage": "Sorry, there was an error sending your message. Please try again.",
+    "services": {
+      "nursingCare": "Professional Nursing Care",
+      "chronicDisease": "Chronic Disease Management",
+      "palliativeCare": "Palliative Care",
+      "physicalTherapy": "Physical Therapy",
+      "postSurgical": "Post-Surgical Care"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions about our services",
+    "cta": {
+      "title": "Still have questions?",
+      "description": "Our team is here to help. Contact us for more information about our services.",
+      "button": "Contact Us"
+    },
+    "questions": [
+      {
+        "question": "What services do you provide?",
+        "answer": "We provide comprehensive home nursing care including medication management, wound care, vital sign monitoring, and personal care assistance."
+      },
+      {
+        "question": "Are your nurses licensed?",
+        "answer": "Yes, all our nurses are fully licensed healthcare professionals with extensive experience in home healthcare."
+      },
+      {
+        "question": "How do I schedule an appointment?",
+        "answer": "You can schedule an appointment by calling our hotline, using our online contact form, or visiting our office."
+      },
+      {
+        "question": "Do you accept insurance?",
+        "answer": "We work with most major insurance providers. Please contact us to verify your coverage."
+      },
+      {
+        "question": "What areas do you serve?",
+        "answer": "We currently serve major cities across Egypt. Contact us to confirm service availability in your area."
+      },
+      {
+        "question": "Are services available 24/7?",
+        "answer": "Yes, we provide 24/7 emergency services and can arrange round-the-clock care when needed."
+      }
+    ]
+  },
+  "blog": {
+    "title": "Healthcare Blog",
+    "subtitle": "Latest news and insights in healthcare",
+    "readMore": "Read More",
+    "backToBlog": "Back to Blog",
+    "tableOfContents": "Table of Contents",
+    "readTime": "5 min read",
+    "relatedArticles": {
+      "title": "Related Articles",
+      "description": "Discover more helpful articles about healthcare and home nursing",
+      "readMore": "Read More"
+    },
+    "viewAllArticles": "View All Articles",
+    "noArticles": "No articles available at this time.",
+    "contactUs": "Contact Us",
+    "contactDescription": "If you have any questions or need more information about our services, feel free to reach out to us.",
+    "viewServices": "View Services",
+    "servicesDescription": "Discover how our customized home healthcare services can assist you or your loved ones.",
+    "articleCta": {
+      "title": "Need Professional Care?",
+      "description": "Contact SanadHome today to learn more about our professional home care services."
+    },
+    "cta": {
+      "title": "Need Professional Care?",
+      "description": "Contact us today to learn more about our professional home care services.",
+      "button": "Contact Us"
+    },
+    "author": "Author",
+    "publishedOn": "Published on",
+    "category": "Category",
+    "articles": [
+      {
+        "title": "The Benefits of Home Nursing Care",
+        "excerpt": "Discover why home nursing care is becoming the preferred choice for families seeking quality healthcare.",
+        "author": "Dr. Sarah Ahmed",
+        "category": "Healthcare"
+      },
+      {
+        "title": "Medication Management for Elderly Patients",
+        "excerpt": "Essential tips and strategies for managing medications safely in a home care setting.",
+        "author": "Nurse Fatima Al-Zahra",
+        "category": "Patient Care"
+      },
+      {
+        "title": "Supporting Family Caregivers",
+        "excerpt": "How professional home nursing services can support and complement family caregiving efforts.",
+        "author": "Dr. Mohammed Hassan",
+        "category": "Family Care"
+      },
+      {
+        "title": "Wound Care Management at Home",
+        "excerpt": "Professional techniques and best practices for wound care in the comfort of your home.",
+        "author": "Nurse Aisha Khalil",
+        "category": "Medical Care"
+      },
+      {
+        "title": "Fall Prevention for Elderly Patients",
+        "excerpt": "Comprehensive strategies to prevent falls and ensure safety for elderly patients at home.",
+        "author": "Dr. Omar Abdullah",
+        "category": "Safety"
+      },
+      {
+        "title": "Nutrition Guidelines for Homebound Patients",
+        "excerpt": "Important nutritional considerations and meal planning for patients receiving home care.",
+        "author": "Nutritionist Layla Ibrahim",
+        "category": "Nutrition"
+      }
+    ]
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive home healthcare services delivered by experienced professionals",
+    "keyFeatures": "Key Features:",
+    "learnMore": "Learn More",
+    "cta": {
+      "title": "Ready to Get Started?",
+      "description": "Contact us today to discuss your healthcare needs and how we can help you or your loved ones.",
+      "button": "Contact Us Today"
+    },
+    "list": [
+      {
+        "title": "Professional Nursing Care",
+        "description": "Comprehensive nursing services provided by licensed registered nurses in your home.",
+        "features": [
+          "Medication Management",
+          "Vital Signs Monitoring",
+          "Wound Care",
+          "Health Assessment"
+        ]
+      },
+      {
+        "title": "Physical Therapy",
+        "description": "Rehabilitation services to help you regain strength, mobility, and independence.",
+        "features": [
+          "Exercise Programs",
+          "Mobility Training",
+          "Pain Management",
+          "Recovery Planning"
+        ]
+      },
+      {
+        "title": "Palliative Care",
+        "description": "Compassionate care focused on comfort and quality of life for patients with serious illnesses.",
+        "features": [
+          "Pain Relief",
+          "Symptom Management",
+          "Emotional Support",
+          "Family Guidance"
+        ]
+      },
+      {
+        "title": "Post-Surgical Care",
+        "description": "Specialized care to ensure safe and effective recovery after surgical procedures.",
+        "features": [
+          "Incision Care",
+          "Recovery Monitoring",
+          "Medication Support",
+          "Follow-up Coordination"
+        ]
+      },
+      {
+        "title": "Chronic Disease Management",
+        "description": "Ongoing support for managing chronic conditions like diabetes, heart disease, and COPD.",
+        "features": [
+          "Disease Monitoring",
+          "Lifestyle Support",
+          "Treatment Compliance",
+          "Health Education"
+        ]
+      },
+      {
+        "title": "Elderly Care",
+        "description": "Comprehensive care services tailored specifically for elderly patients and their unique needs.",
+        "features": [
+          "Daily Living Support",
+          "Safety Assessments",
+          "Social Interaction",
+          "Family Support"
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "description": "Professional home nursing care services with qualified healthcare professionals.",
+    "quickLinks": "Quick Links",
+    "ImportantLinks": "Important Links",
+    "services": "Services",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved."
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: January 1, 2025",
+    "sections": [
+      {
+        "title": "1. Information We Collect",
+        "content": "We collect information you provide directly to us, such as when you create an account, request our services, or contact us for support. This may include:",
+        "items": [
+          "Personal information (name, email address, phone number)",
+          "Medical information relevant to providing care services",
+          "Payment and billing information",
+          "Communications with our team"
+        ]
+      },
+      {
+        "title": "2. How We Use Your Information",
+        "content": "We use the information we collect to:",
+        "items": [
+          "Provide, maintain, and improve our nursing services",
+          "Process payments and billing",
+          "Communicate with you about our services",
+          "Comply with legal obligations",
+          "Ensure the safety and security of our services"
+        ]
+      },
+      {
+        "title": "3. Information Sharing",
+        "content": "We do not sell, trade, or otherwise transfer your personal information to third parties without your consent, except as described in this policy:",
+        "items": [
+          "With healthcare providers as necessary for your care",
+          "With service providers who assist us in operating our services",
+          "When required by law or to protect rights and safety",
+          "In connection with a business transfer or acquisition"
+        ]
+      },
+      {
+        "title": "4. Data Security",
+        "content": "We implement appropriate security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the internet is 100% secure."
+      },
+      {
+        "title": "5. Your Rights",
+        "content": "You have the right to access, update, or delete your personal information. You may also opt out of certain communications from us. To exercise these rights, please contact us using the information provided below."
+      },
+      {
+        "title": "6. Contact Us",
+        "content": "If you have any questions about this Privacy Policy, please contact us at info@sanadhome.com or through our contact page."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms & Conditions",
+    "lastUpdated": "Last updated: January 1, 2025",
+    "sections": [
+      {
+        "title": "1. Acceptance of Terms",
+        "content": "By accessing and using SanadHome services, you accept and agree to be bound by the terms and provision of this agreement."
+      },
+      {
+        "title": "2. Services Description",
+        "content": "SanadHome provides professional home nursing and healthcare services. Our services include but are not limited to:",
+        "items": [
+          "Professional nursing care",
+          "Physical therapy services",
+          "Palliative care",
+          "Post-surgical care",
+          "Chronic disease management"
+        ]
+      },
+      {
+        "title": "3. Service Agreement",
+        "content": "All services are provided subject to a separate service agreement that outlines specific terms, conditions, and care plans tailored to individual patient needs."
+      },
+      {
+        "title": "4. Payment Terms",
+        "content": "Payment for services is due as specified in your service agreement. We accept various payment methods and work with insurance providers where applicable."
+      },
+      {
+        "title": "5. Limitation of Liability",
+        "content": "SanadHome's liability is limited to the extent permitted by law. We maintain appropriate professional insurance and follow all applicable healthcare regulations."
+      },
+      {
+        "title": "6. Privacy and Confidentiality",
+        "content": "We are committed to protecting your privacy and maintaining the confidentiality of your medical information in accordance with applicable privacy laws and regulations."
+      },
+      {
+        "title": "7. Contact Information",
+        "content": "For questions about these terms, please contact us at info@sanadhome.com or through our contact page."
+      }
+    ]
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Try Again",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "ServicePage": {
+    "backToServices": "Back to Services",
+    "cta": {
+      "title": "Need Professional Care?",
+      "description": "Contact us today to discuss your healthcare needs and how we can help.",
+      "button": "Contact Us"
+    },
+    "tocTitle": "In This Article",
+    "relatedServices": {
+      "title": "Other Services You Might Need",
+      "description": "Explore more of our specialized home healthcare services",
+      "readMore": "Read More"
+    }
+  }
+}
