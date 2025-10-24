@@ -7,10 +7,10 @@ const resend = new Resend(process.env.RESEND_API_KEY);
 export async function POST(request: NextRequest) {
     try {
         const body = await request.json();
-        const { name, email, phone, message, service, locale } = body;
+        const { name, addrss, email, phone, message, service, locale } = body;
 
         // Validate required fields
-        if (!name || !email || !message) {
+        if (!name ||!addrss || !email || !message) {
             return NextResponse.json(
                 { error: 'Missing required fields' },
                 { status: 400 }
@@ -35,6 +35,7 @@ export async function POST(request: NextRequest) {
             ${isArabic ? 'تفاصيل المرسل:' : 'Contact Details:'}
           </h3>
           <p><strong>${isArabic ? 'الاسم:' : 'Name:'}</strong> ${name}</p>
+         <p><strong>${isArabic ? 'العنوان:' : 'Addrss:'}</strong> ${name}</p>
           <p><strong>${isArabic ? 'البريد الإلكتروني:' : 'Email:'}</strong> ${email}</p>
           ${phone ? `<p><strong>${isArabic ? 'رقم الهاتف:' : 'Phone:'}</strong> ${phone}</p>` : ''}
           ${service ? `<p><strong>${isArabic ? 'الخدمة المطلوبة:' : 'Service Requested:'}</strong> ${service}</p>` : ''}
@@ -76,6 +77,7 @@ export async function POST(request: NextRequest) {
         );
     }
 }
+
 
 
 
