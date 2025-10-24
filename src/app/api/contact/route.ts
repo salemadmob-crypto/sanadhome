@@ -61,8 +61,7 @@ export async function POST(request: NextRequest) {
         // Send email using Resend
         const data = await resend.emails.send({
             from: 'SanadHome Contact <noreply@sanadhome.com>',
-            to: [process.env.CONTACT_EMAIL || 'info@sanadhome.com
-'],
+            to: [process.env.CONTACT_EMAIL || 'info@sanadhome.com'],
             subject: emailSubject,
             html: emailHtml,
             replyTo: email,
@@ -77,6 +76,7 @@ export async function POST(request: NextRequest) {
         );
     }
 }
+
 
 
 
