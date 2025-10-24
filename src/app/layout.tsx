@@ -27,15 +27,7 @@ export default function RootLayout({
     <html>
       <body className={cairo.className}>
                 <head>
-                <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-89727EPSBV"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-89727EPSBV');
-</script>
+                
                 
                 
                 </head>
@@ -44,6 +36,7 @@ export default function RootLayout({
     </html>
   );
 }
+
 
 
 
