@@ -35,7 +35,7 @@ export async function POST(request: NextRequest) {
             ${isArabic ? 'تفاصيل المرسل:' : 'Contact Details:'}
           </h3>
           <p><strong>${isArabic ? 'الاسم:' : 'Name:'}</strong> ${name}</p>
-         <p><strong>${isArabic ? 'العنوان:' : 'Addrss:'}</strong> ${name}</p>
+         <p><strong>${isArabic ? 'العنوان:' : 'Addrss:'}</strong> ${addrss}</p>
           <p><strong>${isArabic ? 'البريد الإلكتروني:' : 'Email:'}</strong> ${email}</p>
           ${phone ? `<p><strong>${isArabic ? 'رقم الهاتف:' : 'Phone:'}</strong> ${phone}</p>` : ''}
           ${service ? `<p><strong>${isArabic ? 'الخدمة المطلوبة:' : 'Service Requested:'}</strong> ${service}</p>` : ''}
@@ -77,6 +77,7 @@ export async function POST(request: NextRequest) {
         );
     }
 }
+
 
 
 
