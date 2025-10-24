@@ -26,12 +26,14 @@ export default function RootLayout({
   return (
     <html>
       <body className={cairo.className}>
-                
-
+               
         {children}
       </body>
     </html>
   );
 }
+
+
+
 
 

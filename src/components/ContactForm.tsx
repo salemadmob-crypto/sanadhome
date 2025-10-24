@@ -14,6 +14,7 @@ export function ContactForm({ locale, services = [] }: ContactFormProps) {
     const t = useTranslations('contact')
     const [formData, setFormData] = useState({
         name: '',
+        addrss: '',
         email: '',
         phone: '',
         service: '',
@@ -43,6 +44,7 @@ export function ContactForm({ locale, services = [] }: ContactFormProps) {
                 setSubmitStatus('success')
                 setFormData({
                     name: '',
+                    addrss: '',
                     email: '',
                     phone: '',
                     service: '',
@@ -98,7 +100,23 @@ export function ContactForm({ locale, services = [] }: ContactFormProps) {
                             placeholder={t('namePlaceholder')}
                         />
                     </div>
-
+                     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+<div>
+  <label htmlFor="addrss" className="block text-sm font-medium mb-2">
+    {t('addrss')} *
+  </label>
+  <input
+    type="text"
+    id="addrss"
+    name="addrss"
+    value={formData.addrss}
+    onChange={handleChange}
+    required
+    className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
+    placeholder={t('addrssPlaceholder')}
+  />
+          </div>      
+                         </div>
                     <div>
                         <label htmlFor="email" className="block text-sm font-medium mb-2">
                             {t('email')} *
@@ -190,3 +208,5 @@ export function ContactForm({ locale, services = [] }: ContactFormProps) {
         </div>
     )
 }
+
+
