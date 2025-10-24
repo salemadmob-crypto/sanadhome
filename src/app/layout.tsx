@@ -1,4 +1,4 @@
-import { Analytics } from '@vercel/analytics/next';
+
 import type { Metadata } from "next";
 import { Cairo } from 'next/font/google';
 
@@ -26,11 +26,12 @@ export default function RootLayout({
   return (
     <html>
       <body className={cairo.className}>
-                <Analytics />
+                
 
         {children}
       </body>
     </html>
   );
 }
+
 
