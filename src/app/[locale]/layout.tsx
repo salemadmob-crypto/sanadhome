@@ -1,3 +1,6 @@
+import { Analytics } from '@vercel/analytics/next';
+
+
 import type { Metadata } from "next";
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
@@ -155,7 +158,9 @@ export default async function LocaleLayout({
     <html lang={locale} dir={locale === 'ar' ? 'rtl' : 'ltr'}>
       <body
         className={`${cairo.variable} ${cairo.className} antialiased font-cairo`}
+        
       >
+         <Analytics />
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
