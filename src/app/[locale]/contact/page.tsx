@@ -132,7 +132,7 @@ export default async function ContactPage({ params }: { params: Promise<{ locale
                 <div className="flex flex-col space-y-4">
                   <AnimatedCard delay={0.8}>
                     <Link
-                      href="https://facebook.com/sanadhomecare"
+                      href="https://facebook.com/sanadhome.eg"
                       target="_blank"
                       className="flex items-center space-x-4 rtl:space-x-reverse group hover:text-primary transition-colors"
                     >
@@ -141,7 +141,7 @@ export default async function ContactPage({ params }: { params: Promise<{ locale
                       </div>
                       <div>
                         <h4 className="font-semibold">Facebook</h4>
-                        <p className="text-muted-foreground">/sanadhomecare</p>
+                        <p className="text-muted-foreground">/sanadhome.eg</p>
                       </div>
                     </Link>
                   </AnimatedCard>
@@ -191,3 +191,4 @@ export default async function ContactPage({ params }: { params: Promise<{ locale
     </div>
   );
 }
+
